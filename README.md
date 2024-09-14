@@ -4,9 +4,9 @@ First Repository
 ## Let's try this header
 
 ## **Table of Contents**
-- [Projects]
-- [Project Description]
-- [Additonal Doucuments]
+- [Projects](#Projects)
+- [Project Description](#Project-Description)
+- [Additonal Doucuments](#Additonal-Documents)
 
 ### Projects
 *hello-world sample*
